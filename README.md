@@ -7,7 +7,7 @@ Exploratory analysis and predictive modeling of refugees and asylum seekers, bas
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-📄 **[View the full report (PDF)](.Final%20Project.pdf)**
+📄 *[View the full report (PDF)](./Final%20Project.pdf)**
 
 ---
 
